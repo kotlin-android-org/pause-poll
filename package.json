@@ -1,0 +1,22 @@
+{
+  "author": "Wenfang Du",
+  "bugs": {
+    "url": "https://github.com/wenfangdu/pause-poll/issues"
+  },
+  "description": "Promisify setTimeout & setInterval",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "homepage": "https://github.com/wenfangdu/pause-poll#readme",
+  "license": "MIT",
+  "main": "main.js",
+  "name": "pause-poll",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenfangdu/pause-poll.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "type": "module",
+}
